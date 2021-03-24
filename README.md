@@ -8,4 +8,5 @@ Hey there ! I am Rudrashis Gorai
 
 
 - ⚡ I am currently a pre-final year Undergrad at IIESTS studying Civil Engineering .Looking forward to solve problems using data and machine learning . 
--->[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rudrashisgorai)](https://github.com/rudrashisgorai/github-contribution-stats/)
+-->
+[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=rudrashisgorai)](https://github.com/rudrashisgorai/github-contribution-stats/)
