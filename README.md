@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudrashis Gorai</h1>
-<h3 align="center">I am currently a final year Undergrad at IIESTS studying Civil Engineering . Looking forward to solve problems using data and machine learning .</h3>
+<h3 align="center">I am an Undergrad from IIEST , Shibpur . Looking forward to solve problems using data and machine learning .</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
