@@ -75,10 +75,6 @@
   `CUDA · Nsight Systems/Compute` · <a href="https://github.com/rudrashisgorai/<cuda_kernels_lab>">repo</a>
 - 🖼️ **canny-edge-pi** — Real-time Canny + classification on Pi (OpenCV + threading + freq scaling)  
   `Python · OpenCV` · <a href="https://github.com/rudrashisgorai/<canny_edge_pi>">repo</a>
-- 🧠 **fpga-ml-edge** — Experiments with YOLO/Mask R-CNN accelerators on Xilinx Kria  
-  `Vitis HLS/Verilog · Python` · <a href="https://github.com/rudrashisgorai/<fpga_ml_edge>">repo</a>
-- 🧩 **go-grpc-template** — Minimal production-ready gRPC service with CI, health checks, and observability  
-  `Go · gRPC · Docker · GitHub Actions` · <a href="https://github.com/rudrashisgorai/<go_grpc_template>">repo</a>
 
 > Pin these repositories on your profile for maximum visibility (Profile → Customize profile → Pinned).
 
