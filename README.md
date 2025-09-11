@@ -18,7 +18,7 @@
 
 ## About me
 
-- 🎓 **M.S. in Embedded & Cyber-Physical Systems** @ **UC Irvine** (IIEST Shibpur alum)
+- 🎓 **Graduate stduent at **UC Irvine** majoring in Computer Engineering and specialising in Embedded & Cyber-Physical Systems** @  (IIEST Shibpur alum)
 - 🧠 Interests: **real-time embedded**, **edge ML**, **GPU kernels**, **distributed systems**, **backend infra**
 - 🛠️ I like building **practical systems** end-to-end: firmware → services → dashboards → deployment
 - 🌱 Learning more about **CUDA performance**, **RTOS**, **SystemC**, and **FPGA acceleration**
@@ -27,10 +27,9 @@
 
 ## What I’m working on (recent)
 
-- 🧩 **Edge ML acceleration** (YOLO/Mask R-CNN on FPGA & Pi; profiling, memory traffic, kernel fusion)
-- 📡 **Sensor swarms** on ESP8266/ESP32 with a Pi hub (lightweight messaging + resiliency)
-- 🔬 **CUDA playground**: bitonic sort / k-means kernels, occupancy & memory-bound tuning
-- 🔗 **gRPC microservices** boilerplates in Go & Python for telemetry and control loops
+- 🧩 **Edge ML acceleration** 
+- 📡 **Wearable devices** 
+- 🔬 **CUDA kernels**: 
 
 > Want details? Check the featured projects below.
 
