@@ -64,18 +64,7 @@
 
 ---
 
-## Featured projects
 
-- 🔌 **pi-heartbeat** — Remote VNC/SSH management for Pi nodes with a Redis heartbeat  
-  `Python · Redis · Systemd` · <a href="https://github.com/rudrashisgorai/<pi_heartbeat>">repo</a>
-- 🛰️ **esp-sensor-swarm** — ESP8266 light sensor swarm reporting to a central Pi with simple control plane  
-  `C++(Arduino) · MQTT/HTTP · Raspberry Pi` · <a href="https://github.com/rudrashisgorai/<esp_sensor_swarm>">repo</a>
-- ⚡ **cuda-kernels-lab** — Bitonic sort, k-means, and profiling notebooks (roofline, stall reasons)  
-  `CUDA · Nsight Systems/Compute` · <a href="https://github.com/rudrashisgorai/<cuda_kernels_lab>">repo</a>
-- 🖼️ **canny-edge-pi** — Real-time Canny + classification on Pi (OpenCV + threading + freq scaling)  
-  `Python · OpenCV` · <a href="https://github.com/rudrashisgorai/<canny_edge_pi>">repo</a>
-
-> Pin these repositories on your profile for maximum visibility (Profile → Customize profile → Pinned).
 
 ---
 
