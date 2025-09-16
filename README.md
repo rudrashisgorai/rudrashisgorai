@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm **Rudrashis Gorai**
 
-**Grad Student @ UC Irvine (MECPS)** · Embedded & Cyber-Physical Systems · **GPU/AI Systems** · Go/Python/C++
+**Grad Student @ University of California, Irvine (MECPS)** · Embedded & Cyber-Physical Systems · **GPU/AI Systems** · C++/Go/Python/Rust
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rudrashis--gorai-blue?logo=linkedin)](https://www.linkedin.com/in/rudrashis-gorai-921899189/)
 [![X](https://img.shields.io/badge/@rudrashisgorai-000?logo=x)](https://twitter.com/rudrashisgorai)
