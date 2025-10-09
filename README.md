@@ -19,7 +19,7 @@
 ## About me
 
 - 🎓 **Graduate stduent at **UC Irvine** majoring in Computer Engineering and specialising in Embedded & Cyber-Physical Systems** @  (IIEST Shibpur alum)
-- 🧠 Interests: **real-time embedded**, **edge ML**, **GPU kernels**, **distributed systems**, **backend systems & infra**
+- 🧠 Interests: **AI Inference**, **real-time embedded**, **edge ML**, **GPU kernels**, **distributed systems**, **backend systems & infra**
 - 🛠️ I like building **practical systems** end-to-end: firmware → services → dashboards → deployment
 - 🌱 Learning more about **CUDA performance**, **RTOS**, **SystemC**, and **FPGA acceleration**
 
@@ -27,7 +27,7 @@
 
 ## What I’m working on (recent)
 
-- 🧩 **Edge ML acceleration** 
+- 🧩 **Edge ML acceleration and AI Inference** 
 - 📡 **Wearable devices** 
 - 🔬 **CUDA kernels**
 
